@@ -1,0 +1,32 @@
+A company works with number of employees, all the works are dependents on the employees. Even
+if one of the employees resign the job immediately then assigned work will be not finished at the
+time, so delivery of the project to the clients will be delayed. Company planned to make solution for
+this, they want to know which employee may resign next. If they know previously, they can arrange
+alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+
+A) How will you achieve this in AI?
+B) Find out the 3 -Stage of Problem Identification
+C) Name the project 
+D) Create the dummy Dataset
+
+A) How will you achieve this in AI?
+ collect the data from the client
+ predition - which employee may resign next
+ call to action - arrange alternative to perform the task 
+ and 
+ By finding 3 stages , which domain, which learning and if superverised learning which department - regression or   classification.
+
+B) Find out the 3 -Stage of Problem Identification
+stage 1 - Machine learning         
+stage 2 - Supervised Learning
+stage 3 - classification
+
+c)Name the project
+ Emp resignation Analyzer
+
+D) Dummy Dataset 
+Name     
+Emp.ID       
+Age   
+Output/label 
+
